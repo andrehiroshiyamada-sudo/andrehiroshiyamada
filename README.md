@@ -1,7 +1,8 @@
 Olá, eu sou André Hiroshi
 
  Curso: Ciência da Computação
- Turma: [Coloque aqui sua turma ou semestre]
+ 
+ Turma:CC1TA 1 semestre
 
  Interesses na área:
 
